@@ -61,4 +61,4 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/button_hide"
         app:layout_constraintTop_toBottomOf="@+id/button_clockwise" />
-</androidx.constraintlayout.widget.ConstraintLayout>nstraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
